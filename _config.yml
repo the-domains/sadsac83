@@ -1,28 +1,40 @@
-name: sadsac83
-favicon: null
-layout_spectrum: 0.5544636533595622
-typography_spectrum: 0.7524683594238013
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.2841031
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#d7e0e7'
-    - '#10151b'
-    - '#909da6'
-    - '#32373d'
-    - '#9c7d46'
-  brandStrength: 0.7952323299832642
-  lightness: 0.3937055205460638
-  saturation: 0.15595332463271916
-  rhythmicContrast: 0.6895493385381997
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.1559533
+  brandStrength: 0.7952323299832642
+  lightness: 0.4087003
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  rhythmicContrast: 0.5612245
+typography_spectrum: 0.7524683594238013
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: sadsac83
