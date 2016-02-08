@@ -14,8 +14,8 @@ description: This video is about diving pelican
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JUnykNN91jY'
 title: diving pelican
-datePublished: '2016-02-08T02:57:45.067Z'
-dateModified: '2016-02-08T02:01:46.298Z'
+datePublished: '2016-02-08T03:06:26.001Z'
+dateModified: '2016-02-08T02:56:57.830Z'
 sourcePath: _posts/2016-02-08-diving-pelican.md
 published: true
 inFeed: true
